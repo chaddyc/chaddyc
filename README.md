@@ -19,6 +19,7 @@ Apart from working in DevOps, I also maintain a blog - you can find my articles 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 <code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/kubernetes.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/python.png"></code>
 
 ## &#x1f4c8; GitHub Stats
 
