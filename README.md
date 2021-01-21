@@ -21,6 +21,7 @@ Apart from working in DevOps, I also maintain a blog - you can find my articles 
 <code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/kubernetes.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/docker.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/svg/docker.svg"></code>
 
 ## &#x1f4c8; GitHub Stats
 
