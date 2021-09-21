@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/wave.gif" width="30px">
 
-My name is Chad and I'm a Software/DevOps engineer in the financial industry. I'm from South Africa, you can find me on [![LinkedIn][3.2]][3].
+My name is Chad and I'm a DevOps engineer in the financial industry. I'm from South Africa, you can find me on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
