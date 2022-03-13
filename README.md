@@ -3,10 +3,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/wave.gif" width="30px">
 
 My name is Chad and I'm a DevOps engineer in the financial industry. I'm from South Africa, you can find me on [![LinkedIn][3.2]][3].
+---
 
 ## &#x270d; Blog & Writing
 
 Apart from working in DevOps, I also maintain a blog - you can find my articles on my website at [opensourcegeeks.net](https://opensourcegeeks.net/).
+---
 
 ## 🔧 Languages & Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -24,6 +26,7 @@ Apart from working in DevOps, I also maintain a blog - you can find my articles 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;  
 
+---
 
 ## &#x1f4c8; GitHub Stats
 
