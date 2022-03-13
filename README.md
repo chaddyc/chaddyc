@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/wave.gif" width="30px">
 
-My name is Chad and I'm a DevOps engineer in the financial industry. I'm from South Africa, you can find me on [![LinkedIn][3.2]][3].
+My name is Chad and I'm a DevOps engineer with a huge passion for the Opensource world.
 
 ## &#x270d; Blog & Writing
 
@@ -28,8 +28,8 @@ Apart from working in DevOps, I also maintain a blog - you can find my articles 
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chaddyc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaddyc&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chaddyc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaddyc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
