@@ -9,7 +9,7 @@ My name is Chad and I'm a DevOps engineer in the financial industry. I'm from So
 Apart from working in DevOps, I also maintain a blog - you can find my articles on my website at [opensourcegeeks.net](https://opensourcegeeks.net/).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
