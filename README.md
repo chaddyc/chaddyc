@@ -9,7 +9,7 @@ My name is Chad and I'm a DevOps engineer in the financial industry. I'm from So
 Apart from working in DevOps, I also maintain a blog - you can find my articles on my website at [opensourcegeeks.net](https://opensourcegeeks.net/).
 
 ## 🔧 Technologies & Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -25,11 +25,6 @@ Apart from working in DevOps, I also maintain a blog - you can find my articles 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-<code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/kubernetes.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/img/docker.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/svg/docker.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/chaddyc/chaddyc/master/svg/golang.svg"></code>
 
 ## &#x1f4c8; GitHub Stats
 
