@@ -43,6 +43,11 @@ Join our Linux & Opensource discussions!
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [11 Top Opensource Replacements For Discord](https://opensourcegeeks.net/11-top-opensource-replacements-for-discord/)
+- [17 Top Linux Operating Systems For Raspberry Pi Computers](https://opensourcegeeks.net/17-top-linux-operating-systems-for-raspberry-pi-computers/)
+- [10 Top Linux Operating Systems For Mobile Phones](https://opensourcegeeks.net/10-top-linux-operating-systems-for-mobile-phones/)
+- [6 Top Opensource Virtualization Software To Run Virtual Machines](https://opensourcegeeks.net/6-top-opensource-virtualization-software-to-run-virtual-machines/)
+- [2 Top Gaming Platforms For Linux Gamers](https://opensourcegeeks.net/2-top-gaming-platforms-for-linux-gamers/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
