@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fossgeek)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/opensourcegeeks/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%FFFFFF&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;Opensource+and+Tech+Hobbyist+;Opensource+Blogger;Living+in+The+Cloud%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%FFFFFF&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;Opensource+and+Tech+Hobbyist+;Opensource+Blogger;Living+in+The+Cloud%)](https://git.io/typing-svg)
 
 Let me set the records straight. Lionel Messi is the GOAT and I will not hear otherwise! 
 
