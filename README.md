@@ -15,7 +15,7 @@
 <a href="https://app.daily.dev/chaddyc"><img src="https://api.daily.dev/devcards/565cf135a405456da2a7710af7970f49.png?r=pja" width="200" align="right" alt="Chad Crouch's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
-Let tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
 <!-- emoji list https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
