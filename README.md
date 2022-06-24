@@ -40,13 +40,10 @@ Join our Linux & Opensource discussions!
 
 [![Community](https://discord.com/api/guilds/738470958704361503/widget.png?style=banner2)](https://discord.gg/hRn4fCx3BR)
 
-<details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-</details>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
