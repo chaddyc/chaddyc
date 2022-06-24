@@ -1,4 +1,5 @@
 <!-- source link https://sachinmalhotra.medium.com/do-you-have-a-great-github-readme-b8a59b066d02 -->
+<!-- source link https://github.com/warengonzaga -->
 
 # Hi, I'm Chad Crouch (:snowman::computer::jack_o_lantern::beer:)
 ![](https://komarev.com/ghpvc/?username=chaddyc)
@@ -9,8 +10,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/opensourcegeeks/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%FFFFFF&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;Opensource+and+Tech+Hobbyist+;Opensource+Blogger;Living+in+The+Cloud!)](https://git.io/typing-svg)
-
-Let me set the records straight. Lionel Messi is the GOAT and I will not hear otherwise! 
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/chaddyc"><img src="https://api.daily.dev/devcards/565cf135a405456da2a7710af7970f49.png?r=pja" width="200" align="right" alt="Chad Crouch's Dev Card"/></a>
