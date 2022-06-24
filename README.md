@@ -13,9 +13,7 @@
 Let me set the records straight. Lionel Messi is the GOAT and I will not hear otherwise! 
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/chaddyc"><img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="200" align="right" alt="Sachin Malhotra's Dev Card"/></a>
-
-<a href="https://app.daily.dev/chaddyc"><img src="https://api.daily.dev/devcards/565cf135a405456da2a7710af7970f49.png?r=pja" width="400" align="right" alt="Chad Crouch's Dev Card"/></a>
+<a href="https://app.daily.dev/chaddyc"><img src="https://api.daily.dev/devcards/565cf135a405456da2a7710af7970f49.png?r=pja" width="200" align="right" alt="Chad Crouch's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
