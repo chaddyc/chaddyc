@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: chaddyc/blog-post-workflow@master
+      - uses: chaddyc/blog-post-workflow@main
         with:
           feed_list: "https://opensourcegeeks.net/rss/"
