@@ -63,21 +63,3 @@ Join our Linux & Opensource discussions!
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaddyc&layout=compact" />
 
 </details>
-
-
-## 🚀 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 👨‍💻 Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaddyc&show_icons=true&theme=prussian" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaddyc&layout=compact" />
-
-![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
