@@ -1,76 +1,85 @@
- <div align="center">
-<img width="100%" height = "250px" src="https://github.com/chaddyc/chaddyc/blob/master/readme_header.png" alt="cover" />
-</div>
+<!-- source link https://sachinmalhotra.medium.com/do-you-have-a-great-github-readme-b8a59b066d02 -->
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px> </h1>
-<p align='center'>
+# Hi, I'm Chad Crouch (:snowman::computer::jack_o_lantern::beer:)
+![](https://komarev.com/ghpvc/?username=chaddyc)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chaddyc.chaddyc)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chaddyc)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://opensourcegeeks.net/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fossgeek)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/opensourcegeeks/)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%29A3D1&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;Opensource+and+Tech+Hobbyist+;Opensource+Blogger;Living+in+The+Cloud%3F)](https://git.io/typing-svg)
+
+Let me set the records straight. Lionel Messi is the GOAT and I will not hear otherwise! 
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/chaddyc"><img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="200" align="right" alt="Sachin Malhotra's Dev Card"/></a>
+
+<a href="https://app.daily.dev/chaddyc"><img src="https://api.daily.dev/devcards/565cf135a405456da2a7710af7970f49.png?r=pja" width="400" align="right" alt="Chad Crouch's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
+Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+
+<!-- emoji list https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
+
+* 🖥️ Currently working as a DevOps Engineer.
+* 🖨️ I write Linux and Opensource articles on my blog <a href="https://opensourcegeeks.net">Opensource Geeks</a>.
+* ⚽ Love Football. BIG FC Barcelona Fan && Supporter!
+* 😄 Pronouns: He/him
+* 🤯 A strange fact about me: I love to write complete sentences most of the time and over-explain myself from time to time!
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
-<div size='20px'> My name is Chad. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+## 🔧 Technologies & Tools
+<!-- Icons Link https://github.com/tandpfun/skill-icons#icons-list --> 
+![skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,bash,cloudflare,nginx,aws,azure,django,mysql,flask,gcp,go,gitlab,postgres,redis,vim,vscode&theme=light)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## 🌏 My Community
 
+Join our Linux & Opensource discussions!
 
-- 🔭 I’m currently working on My Blog, Github Projects
+[![Community](https://discord.com/api/guilds/738470958704361503/widget.png?style=banner2)](https://discord.gg/hRn4fCx3BR)
 
-- 🌱 I’m currently learning FullStack Developent Python & Django 
-
-- 👯 I’m looking to collaborate on Projects specifically Python FullStack Projects (Flask or Django) 
-
-- 💬 Talk to me about Linux, Opensource, SRE & DevOps, FullStack Development (Python + Django/ Python + Flask), GoLang, DevOps Tooling
-
-<h2> Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=elasticsearch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/chaddyc?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/chaddyc'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/fossgeek'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/chaddyc'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/chaddyc?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> My Blog Posts </h2>
+<details>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+</details>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=chaddyc)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaddyc&show_icons=true&theme=prussian" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaddyc&layout=compact" />
+
+</details>
 
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+## 🚀 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 👨‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaddyc&show_icons=true&theme=prussian" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaddyc&layout=compact" />
+
+![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
