@@ -2,7 +2,7 @@
 <!-- source link https://github.com/warengonzaga  -->
 <!-- emojis markup https://gist.github.com/yeze322/34a8f4a7f8b39ee6d1d4956dcb0fe364 -->
 
-# Hi, I'm Chad Crouch (:wave::computer::jack_o_lantern::beer:)
+# Hi, I'm Chad Crouch (:wave::computer::cloud::penguin:)
 ![](https://komarev.com/ghpvc/?username=chaddyc)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chaddyc)
