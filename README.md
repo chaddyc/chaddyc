@@ -21,11 +21,11 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 
 <!-- emoji list https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-* 🖥️ Currently working as a DevOps Engineer.
-* 🖨️ I write Linux and Opensource articles on my blog <a href="https://opensourcegeeks.net">Opensource Geeks</a>.
-* ⚽ Love Football. BIG FC Barcelona Fan && Supporter!
-* 😄 Pronouns: He/him
-* 🤯 A strange fact about me: I love to write complete sentences most of the time and over-explain myself from time to time!
+* 🖥️ DevOps Engineer
+* 🖨️ I write Linux and Opensource articles on my blog <a href="https://opensourcegeeks.net">Opensource Geeks</a>
+* ⚽ Love Football - BIG FC Barcelona Fan && Supporter
+* 🐧 Linux Enthusiast
+* 📝 FullStack Journey with Python & Django
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
