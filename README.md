@@ -23,7 +23,7 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 
 * 🖥️ DevOps Engineer
 * 🖨️ I write Linux and Opensource articles on my blog <a href="https://opensourcegeeks.net">Opensource Geeks</a>
-* ⚽ Love Football - BIG FC Barcelona Fan && Supporter
+* ⚽ Love Football - BIG FC Barcelona Super Fan && Supporter
 * 🐧 Linux Enthusiast
 * 📝 FullStack Journey with Python & Django
 
