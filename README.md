@@ -1,5 +1,6 @@
 <!-- source link https://sachinmalhotra.medium.com/do-you-have-a-great-github-readme-b8a59b066d02 -->
 <!-- source link https://github.com/warengonzaga  -->
+<!-- github profiles readme https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!-- emojis markup https://gist.github.com/yeze322/34a8f4a7f8b39ee6d1d4956dcb0fe364 -->
 
 # Hi, I'm Chad Crouch (:wave::computer::cloud::penguin:)
