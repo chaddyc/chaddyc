@@ -11,7 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fossgeek)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/opensourcegeeks/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%FFFFFF&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps|Platform+Engineer;Opensource+and+Tech+Hobbyist+;Opensource+Blogger;Living+in+The+Cloud!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%FFFFFF&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;Opensource+and+Tech+Hobbyist+;Opensource+Blogger;Living+in+The+Cloud!)](https://git.io/typing-svg)
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/chaddyc"><img src="https://api.daily.dev/devcards/565cf135a405456da2a7710af7970f49.png?r=pja" width="200" align="right" alt="Chad Crouch's Dev Card"/></a>
@@ -21,11 +21,11 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 
 <!-- emoji list https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-* 🖥️ DevOps|Platform Engineer
+* 🖥️ DevOps Engineer
 * 🖨️ I write Linux and Opensource articles on my blog <a href="https://opensourcegeeks.net">Opensource Geeks</a>
 * ⚽ Love Football - BIG FC Barcelona Super Fan && Supporter
 * 🐧 Linux & Opensource Enthusiast
-* 📝 FullStack Journey with Python & Django
+* 📝 FullStack Journey with Python & Flask
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
