@@ -34,7 +34,7 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 
 ## 🔧 Technologies & Tools
 <!-- Icons Link https://github.com/tandpfun/skill-icons#icons-list --> 
-![skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,bash,cloudflare,nginx,aws,mysql,gcp,go,postgres,vim,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,bash,go,python,javascript,typescript,cloudflare,nginx,aws,gcp,mysql,postgres,vim,vscode&theme=light)
 
 ## 🌏 My Community
 
