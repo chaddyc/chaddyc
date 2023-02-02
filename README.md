@@ -26,7 +26,7 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 * ⚽ Love Football - BIG FC Barcelona Super Fan && Supporter
 * 🐧 Linux & Opensource Enthusiast
 * ⌨️ superPower := automation
-* 🧑‍💻 GoLang Fullstack Fanatic
+* 🧑‍💻 GoLang Fanatic
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
