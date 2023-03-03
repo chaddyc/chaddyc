@@ -44,11 +44,11 @@ Join our Linux & Opensource discussions!
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Deploy Virtual Machines To Proxmox With Terraform](https://opensourcegeeks.net/how-to-deploy-virtual-machines-to-proxmox-with-terraform/)
-- [How To Build Images With Packer For Proxmox](https://opensourcegeeks.net/how-to-build-images-with-packer-for-proxmox/)
-- [The SRE And DevOps Engineer Roadmap The Opensource Way](https://opensourcegeeks.net/the-sre-and-devops-engineer-roadmap-the-opensource-way/)
-- [10 Top Code Editors For Linux Operating Systems](https://opensourcegeeks.net/10-top-code-editors-for-linux-operating-systems/)
-- [11 Top Opensource Replacements For Discord](https://opensourcegeeks.net/11-top-opensource-replacements-for-discord/)
+- [How To Install And Setup Jenkins CI With Docker](https://opensourcegeeks.net/how-to-install-and-setup-jenkins-ci-with-docker/)
+- [How To Install Mautic With Docker](https://opensourcegeeks.net/how-to-install-mautic-with-docker/)
+- [How To Install WordPress With Docker](https://opensourcegeeks.net/how-to-install-wordpress-with-docker/)
+- [How To Set Up RancherOS And Run Containers](https://opensourcegeeks.net/how-to-set-up-rancheros-and-run-containers/)
+- [How To Install Listmonk With Docker](https://opensourcegeeks.net/how-to-install-listmonk-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
