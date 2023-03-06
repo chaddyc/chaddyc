@@ -20,8 +20,8 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 
 <!-- emoji list https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-* 🖥️ DevOps Engineer
-* 🖨️ I write Linux and Opensource articles on my blog <a href="https://opensourcegeeks.net">Opensource Geeks</a>
+* 🖥️ Software/DevOps Engineer
+* 🖨️ I write Coding, Linux and Opensource articles on my blog <a href="https://opensourcegeeks.net">Opensource Geeks</a>
 * ⚽ Love Football - BIG FC Barcelona Super Fan && Supporter
 * 🐧 Linux & Opensource Enthusiast
 * ⌨️ superPower := automation
