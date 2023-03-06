@@ -44,11 +44,11 @@ Join our Linux & Opensource discussions!
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opensource Weekly - Self-Host Your Own Newsletter Service With Listmonk](https://opensourcegeeks.net/opensource-weekly-1/)
 - [How To Install And Setup Jenkins CI With Docker](https://opensourcegeeks.net/how-to-install-and-setup-jenkins-ci-with-docker/)
 - [How To Install Mautic With Docker](https://opensourcegeeks.net/how-to-install-mautic-with-docker/)
 - [How To Install WordPress With Docker](https://opensourcegeeks.net/how-to-install-wordpress-with-docker/)
 - [How To Set Up RancherOS And Run Containers](https://opensourcegeeks.net/how-to-set-up-rancheros-and-run-containers/)
-- [How To Install Listmonk With Docker](https://opensourcegeeks.net/how-to-install-listmonk-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
