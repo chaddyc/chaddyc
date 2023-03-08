@@ -35,12 +35,6 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 <!-- Icons Link https://github.com/tandpfun/skill-icons#icons-list --> 
 ![skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,bash,go,python,javascript,typescript,cloudflare,nginx,aws,gcp,mysql,postgres,vim,vscode&theme=light)
 
-## 🌏 My Community
-
-Join our Linux & Opensource discussions!
-
-[![Community](https://discord.com/api/guilds/738470958704361503/widget.png?style=banner2)](https://discord.gg/hRn4fCx3BR)
-
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -51,18 +45,3 @@ Join our Linux & Opensource discussions!
 - [How To Install Listmonk With Docker](https://opensourcegeeks.net/how-to-install-listmonk-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=chaddyc)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaddyc&show_icons=true&theme=prussian" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaddyc&layout=compact" />
-
-</details>
