@@ -2,7 +2,7 @@ name: Latest Blog Posts
 on:
   schedule:
     # Runs every hour
-    - cron: '0 6 * * 7'
+    - cron: '0 6 * * Sun'
   # workflow_dispatch:
 
 jobs:
