@@ -38,10 +38,10 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Top Self-Hosted Opensource DNS Servers Like Pi-Hole](https://opensourcegeeks.net/5-top-self-hosted-opensource-dns-servers-like-pi-hole/)
+- [6 Top Opensource Web Servers And Reverse Proxies](https://opensourcegeeks.net/6-top-opensource-web-servers-and-reverse-proxies/)
+- [How To Set Up A Github Actions Runner With Docker](https://opensourcegeeks.net/how-to-set-up-a-github-actions-runner-with-docker/)
 - [5 Top Opensource Programming Languages To Learn In 2023](https://opensourcegeeks.net/5-top-opensource-programming-languages-to-learn-in-2023/)
-- [Opensource Weekly - Self-Host Your Own Newsletter Service With Listmonk](https://opensourcegeeks.net/opensource-weekly-1/)
-- [How To Install And Setup Jenkins CI With Docker](https://opensourcegeeks.net/how-to-install-and-setup-jenkins-ci-with-docker/)
-- [How To Install Mautic With Docker](https://opensourcegeeks.net/how-to-install-mautic-with-docker/)
-- [How To Install WordPress With Docker](https://opensourcegeeks.net/how-to-install-wordpress-with-docker/)
+- [Opensource Discovery - Self-Host Your Own Newsletter Service With Listmonk](https://opensourcegeeks.net/opensource-discovery-1/)
 <!-- BLOG-POST-LIST:END -->
 
