@@ -38,10 +38,10 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built An Autonomous Newsletter Compiler Tool With GoLang, GitHub Actions, And Listmonk](https://opensourcegeeks.net/how-i-built-an-autonomous-newsletter-compiler-tool-with-golang-github-actions-and-listmonk/)
+- [How To Setup Ghost Blog CMS With Docker](https://opensourcegeeks.net/how-to-setup-ghost-blog-cms-with-docker/)
 - [5 Top Self-Hosted Opensource DNS Servers Like Pi-Hole](https://opensourcegeeks.net/5-top-self-hosted-opensource-dns-servers-like-pi-hole/)
 - [6 Top Opensource Web Servers And Reverse Proxies](https://opensourcegeeks.net/6-top-opensource-web-servers-and-reverse-proxies/)
 - [How To Set Up A Github Actions Runner With Docker](https://opensourcegeeks.net/how-to-set-up-a-github-actions-runner-with-docker/)
-- [5 Top Opensource Programming Languages To Learn In 2023](https://opensourcegeeks.net/5-top-opensource-programming-languages-to-learn-in-2023/)
-- [Opensource Discovery - Self-Host Your Own Newsletter Service With Listmonk](https://opensourcegeeks.net/opensource-discovery-1/)
 <!-- BLOG-POST-LIST:END -->
 
