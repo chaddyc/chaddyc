@@ -38,10 +38,10 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built An Autonomous Newsletter Compiler Tool With GoLang, GitHub Actions, And Listmonk](https://opensourcegeeks.net/how-i-built-an-autonomous-newsletter-compiler-tool-with-golang-github-actions-and-listmonk/)
+- [How To Set Up Ansible Inside A Github Repository and Automate Your Workloads](https://opensourcegeeks.net/how-to-set-up-ansible-inside-a-github-repository-and-automate-your-workloads/)
+- [How To Set Up Hashicorp Vault Secrets Manager With Docker](https://opensourcegeeks.net/how-to-set-up-hashicorp-vault-secrets-manager-with-docker/)
+- [How I Built An Autonomous Newsletter Compiler Tool With GoLang, GitHub Actions, Listmonk, And Docker](https://opensourcegeeks.net/how-i-built-an-autonomous-newsletter-compiler-tool-with-golang-github-actions-and-listmonk/)
 - [How To Setup Ghost Blog CMS With Docker](https://opensourcegeeks.net/how-to-setup-ghost-blog-cms-with-docker/)
 - [5 Top Self-Hosted Opensource DNS Servers Like Pi-Hole](https://opensourcegeeks.net/5-top-self-hosted-opensource-dns-servers-like-pi-hole/)
-- [6 Top Opensource Web Servers And Reverse Proxies](https://opensourcegeeks.net/6-top-opensource-web-servers-and-reverse-proxies/)
-- [How To Set Up A Github Actions Runner With Docker](https://opensourcegeeks.net/how-to-set-up-a-github-actions-runner-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
