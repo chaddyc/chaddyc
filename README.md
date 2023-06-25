@@ -38,10 +38,10 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Install Pi-Hole DNS With Docker](https://opensourcegeeks.net/how-to-install-pi-hole-dns-with-docker/)
+- [How To Install And Manage Desktop Apps On Mac OS With Ansible And Homebrew Scripts](https://opensourcegeeks.net/how-to-install-and-manage-desktop-apps-on-macos-with-ansible-and-homebrew-scripts/)
 - [How To Install And Manage Desktop Apps On Windows With Ansible And Chocolatey Scripts](https://opensourcegeeks.net/how-to-install-and-manage-desktop-apps-on-windows-with-ansible-and-chocolatey-scripts/)
 - [How To Automate A Kubernetes Cluster Setup With Ansible](https://opensourcegeeks.net/how-to-automate-a-kubernetes-cluster-setup-with-ansible/)
 - [8 Top GoLang Opensource Web Frameworks To Build APIs And Web Services](https://opensourcegeeks.net/8-top-golang-opensource-web-frameworks-to-build-apis-and-web-services/)
-- [How To Set Up Ansible Inside A Github Repository And Automate Your Workloads](https://opensourcegeeks.net/how-to-set-up-ansible-inside-a-github-repository-and-automate-your-workloads/)
-- [How To Set Up Hashicorp Vault Secrets Manager With Docker](https://opensourcegeeks.net/how-to-set-up-hashicorp-vault-secrets-manager-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
