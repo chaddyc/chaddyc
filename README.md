@@ -38,10 +38,10 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Top Self-Hosted Opensource Project Management Applications Like Trello](https://opensourcegeeks.net/8-top-self-hosted-opensource-project-management-applications-like-trello/)
 - [How To Deploy A Proxmox Virtual Machine With Ansible](https://opensourcegeeks.net/how-to-deploy-a-proxmox-virtual-machine-with-ansible/)
 - [How To Set Up Wazuh SIEM With Docker](https://opensourcegeeks.net/how-to-set-up-wazuh-siem-with-docker/)
 - [11 Opensource Self-Hosted Alternatives To Google Analytics](https://opensourcegeeks.net/11-opensource-self-hosted-alternatives-to-google-analytics/)
 - [How To Use Secrets From Hashicorp Vault With Ansible](https://opensourcegeeks.net/how-to-use-secrets-from-hashicorp-vault-with-ansible/)
-- [How To Install Pi-Hole DNS With Docker](https://opensourcegeeks.net/how-to-install-pi-hole-dns-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
