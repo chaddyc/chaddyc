@@ -38,10 +38,10 @@ A few tad bits about myself <img src="https://emojis.slackmojis.com/emojis/image
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Self-Host Deepseek Opensource AI Models With Ollama And Docker On Ubuntu Linux](https://opensourcegeeks.net/how-to-selfhost-deepseek-opensource-ai-models-with-ollama-and-docker-on-ubuntu-linux/)
 - [Create An Ubuntu Linux Proxmox VM Template Ready For Terraform](https://opensourcegeeks.net/create-an-ubuntu-linux-proxmox-vm-template-ready-for-terraform/)
 - [How To Deploy PGAdmin And PostgreSQL With Docker](https://opensourcegeeks.net/how-to-deploy-pgadmin-and-posgresql-with-docker/)
 - [How To Deploy MySQL And PHPMyAdmin With Docker](https://opensourcegeeks.net/how-to-deploy-mysql-and-phpmyadmin-with-docker/)
 - [How To Run Dev Containers On Remote Docker Hosts With VSCode For Your Coding Projects](https://opensourcegeeks.net/how-to-run-dev-containers-on-remote-docker-hosts-with-vscode-for-your-coding-projects/)
-- [How To Setup A NodeJS And TypeScript Project](https://opensourcegeeks.net/how-to-setup-a-nodejs-and-typescript-project/)
 <!-- BLOG-POST-LIST:END -->
 
